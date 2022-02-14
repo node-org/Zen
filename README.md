@@ -8,9 +8,9 @@ For a long-time, I was a workona user, I emailed them multiple time to add some 
 
 ## ⌚ Timeline
 
-10/7/2021: Workona agony and war
-7/1/2022: Start here
-15/2/2022: A Structure is Ready (Goal: v0 at Nouwruz a.k.a 21st of March, 2022)
+ - 10/7/2021: Workona agony and war
+ - 7/1/2022: Start here
+ - 15/2/2022: A Structure is Ready (Goal: v0 at Nouwruz a.k.a 21st of March, 2022)
 
 ## 🎯 Goals
  - This project is free for personal use, forever, if I made it monetized for personal use, even if I added lots of annoying ads, just fork it and kick my ass 😉!
