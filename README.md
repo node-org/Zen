@@ -14,12 +14,6 @@ Zen is an Open-Source alternative to Workona, Toby, OneTab and stuff like that, 
 
 > *So I felt I cant waste anymore time on these, my work is gone, and all I have is 300 workspace, but I promised myself to take a revange and also offer people a good, free for personal use alternative, so that's the cause of this project here, while I'm writing this, nothing much is done yet rather than lots of research, some design drafts, and some snippets here and there.*
 
-## ⌚ Timeline
-
- - 10/7/2021: Workona agony and war
- - 7/1/2022: Start here
- - 15/2/2022: A Structure is Ready (Goal: v0 at Nouwruz a.k.a 21st of March, 2022)
-
 ## 🎯 Goals
  - This project is free for personal use, forever, if I made it monetized for personal use, even if I added lots of annoying ads, just fork it and kick my ass 😉!
  - Being feature-rich, I prefer bloated stuff, but for security sake I try to minimize dependency and also make nearly all codes, offline
